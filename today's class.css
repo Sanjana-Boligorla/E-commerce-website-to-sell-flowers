@@ -1,0 +1,11 @@
+div {
+  height: 200px;
+  width: 200px;
+  position: static;
+}
+
+#b1 {
+  background-color: red;
+  left: 40px;
+  top: 60px;
+}
